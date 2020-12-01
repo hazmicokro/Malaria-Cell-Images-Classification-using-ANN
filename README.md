@@ -1,4 +1,4 @@
-# Cell Images Parasitized Classification using ANN
+# Malaria Cell Images Classification using ANN
 Cell Images Classification Parasitized and Uninfected using ANN \
 Author : Hazmi Cokro 
 
